@@ -1,0 +1,29 @@
+---
+title: "plots"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+editor_options: 
+  chunk_output_type: console
+---
+
+# scatterplots
+
+here are some plots
+
+```{r}
+library(tidyverse)
+
+plot_df =
+  tibble(
+    x = rnorm(100, 2, 3),
+    y = x + rnorm(100)
+  )
+
+plot_df |> 
+  ggplot(aes(x = x, y = y)) +
+  geom_point()
+```
+

@@ -1,0 +1,16 @@
+---
+title: "about"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# about this page
+
+this page is about how i created a website.
+
+it was written by meghan.
+
+to go home, click [here](index.html)

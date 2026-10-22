@@ -5,6 +5,8 @@ output:
     toc: true
     toc_float: true
     theme: cerulean
+editor_options: 
+  chunk_output_type: console
 ---
 
 # this is meghan's awesome website
@@ -21,6 +23,6 @@ to learn about this page, go [here](about.html)
 
 here's a really cool picture that i took:
 
-<img src="images/ted.jpg" style="width:75%">
+<img src = "images/played_in_her_face.jpeg" style = "width:75%">
 
 another cool thing is scatterplots. check this [out](plots.html)

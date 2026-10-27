@@ -30,7 +30,7 @@ nyc_airbnb = nyc_airbnb |>
   )
 ```
 
-Column {data-width=650}
+Column {data-width=550}
 -----------------------------------------------------------------------
 
 ### boxplots
@@ -42,7 +42,7 @@ nyc_airbnb |>
            colors = "viridis")
 ```
 
-Column {data-width=350}
+Column {data-width=450}
 -----------------------------------------------------------------------
 
 ### scatterplots

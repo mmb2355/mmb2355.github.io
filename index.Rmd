@@ -26,3 +26,5 @@ here's a really cool picture that i took:
 <img src = "images/played_in_her_face.jpeg" style = "width:75%">
 
 another cool thing is scatterplots. check this [out](plots.html)
+
+i did some plotly. check it [out](plotly.html)

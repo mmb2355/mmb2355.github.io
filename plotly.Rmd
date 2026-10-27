@@ -1,5 +1,5 @@
 ---
-title: "Plotly"
+title: "plotly"
 output: html_document
 date: "2026-10-27"
 editor_options: 

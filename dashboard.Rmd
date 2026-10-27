@@ -4,6 +4,7 @@ output:
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
+    source: embed
 ---
 
 ```{r}
@@ -32,7 +33,19 @@ nyc_airbnb = nyc_airbnb |>
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-## scatterplots
+### boxplots
+
+```{r}
+nyc_airbnb |> 
+  mutate(neighbourhood = fct_reorder(neighbourhood, price)) |> 
+  plot_ly( y = ~price, color = ~neighbourhood, type = "box", 
+           colors = "viridis")
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### scatterplots
 
 ```{r}
 nyc_airbnb |> 
@@ -45,19 +58,7 @@ nyc_airbnb |>
   )
 ```
 
-Column {data-width=350}
------------------------------------------------------------------------
-
-## boxplots
-
-```{r}
-nyc_airbnb |> 
-  mutate(neighbourhood = fct_reorder(neighbourhood, price)) |> 
-  plot_ly( y = ~price, color = ~neighbourhood, type = "box", 
-           colors = "viridis")
-```
-
-## bar chart
+### bar chart
 
 ```{r}
 nyc_airbnb |> 

@@ -73,4 +73,3 @@ scatter = nyc_airbnb |>
 
 ggplotly(scatter)
 ```
-

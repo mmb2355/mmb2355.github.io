@@ -21,6 +21,8 @@ to learn about this page, go [here](about.html)
 
 # links
 
+wanna see my [instacart](instacart.html) dashboard?
+
 here is my [github](https://github.com/mmb2355) account!
 
 to reach out, please email me at [mmb2355@cumc.columbia.edu](mmb2355@cumc.columbia.edu)
@@ -30,8 +32,6 @@ to reach out, please email me at [mmb2355@cumc.columbia.edu](mmb2355@cumc.columb
 my current favorite meme:
 
 <img src = "images/played_in_her_face.jpeg" style = "width:75%">
-
-wanna see my [instacart](instacart.html) dashboard?
 
 another cool thing is scatterplots. check this [out](plots.html)
 

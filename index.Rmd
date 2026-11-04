@@ -23,13 +23,15 @@ to learn about this page, go [here](about.html)
 
 here is my [github](https://github.com/mmb2355) account!
 
-to reach out, please email me [here](mmb2355@cumc.columbia.edu)
+to reach out, please email me at [mmb2355@cumc.columbia.edu](mmb2355@cumc.columbia.edu)
 
 # some other stuff that's really cool
 
 my current favorite meme:
 
 <img src = "images/played_in_her_face.jpeg" style = "width:75%">
+
+wanna see my [instacart](instacart.html) dashboard?
 
 another cool thing is scatterplots. check this [out](plots.html)
 

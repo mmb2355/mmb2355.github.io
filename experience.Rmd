@@ -1,0 +1,62 @@
+---
+title: "experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+editor_options: 
+  chunk_output_type: console
+---
+
+# academic
+
+## Master of Public Health
+
+**Columbia University, Mailman School of Public Health – New York, NY**
+
+Department of Epidemiology, Certificate in Chronic Disease - May 2027, GPA: 3.76/4.0
+
+## Bachelor of Health Science
+
+**Minor in Health Disparities in Society -- University of Florida, College of Public Health and Health Professions – Gainesville, FL**
+
+May 2025, GPA: 3.86/4.0
+
+
+# professional
+
+## Llanos Lab – Research Assistant					      
+
+**Columbia University, Mailman School of Public Health, Department of Epidemiology; New York, NY; January 2026 – Present; The ACHIEVE Study - Research Assistant**
+
+* Evaluate the association of social and structural factors on receipt of guideline-concordant care for invasive cervical cancer
+Evaluate the association of social and structural factors on cervical cancer outcomes
+* Identify actionable strategies for addressing social and structural risks and health system-level factors to optimize delivery of equitable cervical cancer care through participatory engagement of stakeholders
+* Complete data entry of baseline and 12-month follow-up surveys of cervical cancer participants into a database (REDCap) that translates answers into statistical findings
+* Create a literature review and data analysis on the association between patient-provider racial, ethnic, and gender concordance and patient-provider communication during cervical cancer treatment, through previous publications
+
+## Medical Assistant
+
+**Florida Institute of Dermatology, Winter Garden, FL; May 2023 – August 2023**
+
+* Gathered information from patients at the beginning of their appointments (medical history, follow-ups, medications)
+* Scribed for providers while the patient exam was occurring, such as marking areas of concern, writing a treatment regimen based on the provider’s discretion, and gathering patient and family history
+* Prepped for procedures for both the patient and the provider (biopsies, liquid nitrogen)
+Sent prescriptions to the correct pharmacies and submitted prior authorizations if denied by insurance
+* Performed certain procedures such as suture removals, pregnancy tests, and red light therapy for patients who have precancerous lesions
+
+**Front Desk Assistant**		        						               
+
+Florida Institute of Dermatology, Winter Garden, FL;
+May 2022 – August 2022
+
+* Checked in and scheduled new and established patients for their appointments
+* Answered and made phone calls regarding insurance information, faxed to other medical offices, and requested medical records
+Handled appointment payments while patients checked out by card transactions
+* Organized and reordered the online schedule for the providers when needed
+* Uploaded all the patients’ information on their online chart in order for providers to access
+* Trained new employees on skills needed for the front desk and gave them advice on the best way to execute methods
+
+
+**to go home, click [here](index.html)**

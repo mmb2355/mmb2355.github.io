@@ -13,15 +13,21 @@ editor_options:
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-you can write content. This can be whatever you want to say to the whole world.
-
 i learned all my data sceince from [P8105](https://p8105.com/)!
+
+check out my [experience](experience.html)!
 
 to learn about this page, go [here](about.html)
 
+# links
+
+here is my [github](https://github.com/mmb2355) account!
+
+to reach out, please email me [here](mmb2355@cumc.columbia.edu)
+
 # some other stuff that's really cool
 
-here's a really cool picture that i took:
+my current favorite meme:
 
 <img src = "images/played_in_her_face.jpeg" style = "width:75%">
 

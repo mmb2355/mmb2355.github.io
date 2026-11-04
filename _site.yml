@@ -9,6 +9,8 @@ navbar:
       href: plots.html
     - text: "plotly"
       href: plotly.html
+    - text: "experience"
+      href: experience.html
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg

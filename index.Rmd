@@ -13,7 +13,7 @@ editor_options:
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-i learned all my data sceince from [P8105](https://p8105.com/)!
+i learned all my data science from [P8105](https://p8105.com/)!
 
 check out my [experience](experience.html)!
 
